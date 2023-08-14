@@ -1,8 +1,8 @@
-Jack - personal portfolio
+Thanush - personal portfolio
 
-# HEDER
+# HEADER
 
-Jack.
+Thanush.
 
 En
 Ar
@@ -71,7 +71,7 @@ About me
 
 Need a Creative Product? I can Help You!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Hi! I’m Thanush Thanush, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 
 Hire me
 
@@ -218,8 +218,8 @@ Phone:
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+info@Thanush.com
+support@Thanush.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -248,7 +248,7 @@ Send
 
 # FOOTER
 
-Jack.
+Thanush.
 
 &copy; 2022 codewithsadee. All rights reserved
 
